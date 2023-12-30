@@ -15,7 +15,7 @@ Este proyecto es un remake del clásico juego Pong, creado completamente con Blu
 ![Gameplay](/Recursos/GamePlay.PNG)
 
 ### Menú de Pausa
-![Menú de Pausa](/Recursos/GamePause.PNG)
+![Menú de Pausa](/Recursos/GamePause.png)
 
 ### Game Over
 ![Game Over](/Recursos/GameOver.PNG)

@@ -26,7 +26,7 @@ Este proyecto se ha desarrollado íntegramente utilizando Blueprints en Unreal E
 
 ## Instalación
 
-Puedes descargar e instalar el juego utilizando nuestro [Instalador Pong]((https://drive.google.com/file/d/1mY00uPm50HjU5h49Q4wQHJugyFTlEAa5/view?usp=sharing)). ¡Experimenta la diversión del Pong reinventado en tu propia máquina!
+Puedes descargar e instalar el juego utilizando nuestro [Instalador Pong](https://drive.google.com/file/d/1mY00uPm50HjU5h49Q4wQHJugyFTlEAa5/view?usp=sharing). ¡Experimenta la diversión del Pong reinventado en tu propia máquina!
 
 ## Contribuciones
 
